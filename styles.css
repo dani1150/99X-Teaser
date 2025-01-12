@@ -29,7 +29,8 @@
 </head>
 <body>
     <div class="container">
-        <img src="hover-image.png" class="hover-image" alt="Hover Image">
+        <!-- Image is placed in the top-right corner -->
+        <img src="foofighters-livex-cd.png" class="hover-image" alt="Foo Fighters Live CD">
     </div>
 </body>
 </html>
